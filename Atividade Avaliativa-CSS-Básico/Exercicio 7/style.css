@@ -1,0 +1,9 @@
+ body div{
+background-image: linear-gradient(#ff5733,#ffc300);
+padding: 60px;
+text-align: center;
+font-size: 35px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: normal;
+
+}

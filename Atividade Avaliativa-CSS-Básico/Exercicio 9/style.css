@@ -1,0 +1,23 @@
+body button {
+    border-radius: 56px;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    padding: 45px;
+    margin-left: 490px;
+    margin-top: 240px;
+    
+}
+body button:hover{
+    background-image: linear-gradient(yellow,red);
+    color: blue;
+    
+}
+body{
+    background-image: linear-gradient(grey,orange);
+    background-size: 4500px;
+    background-repeat: no-repeat;
+    
+    
+    
+}

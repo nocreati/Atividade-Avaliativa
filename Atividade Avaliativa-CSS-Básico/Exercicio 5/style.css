@@ -1,0 +1,9 @@
+p{
+    text-align: left;
+}
+div p{
+    text-align: center;
+}
+h1 p{
+    text-align: right;
+}

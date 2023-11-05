@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+#menu-h{
+    list-style: none;
+    padding: 15px;
+    background-color: aqua;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+#menu-h li{
+    display: inline;
+    padding: 20px;
+}
+#menu-h li a:hover{
+    color: crimson;
+    transition: 0,6s;
+    background-color: blue;
+
+}
